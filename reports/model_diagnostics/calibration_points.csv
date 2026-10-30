@@ -1,0 +1,27 @@
+Model,Set,Mean predicted At Risk probability,Observed At Risk fraction
+Decision Tree,Training OOF,0.0,0.25555555555555554
+Decision Tree,Training OOF,0.46258342537294056,0.4166666666666667
+Decision Tree,Training OOF,0.8660088729437594,0.4274193548387097
+Decision Tree,Held-out test,0.0,0.26
+Decision Tree,Held-out test,0.6963965444978102,0.5384615384615384
+Decision Tree,Held-out test,1.0,0.375
+Random Forest,Training OOF,0.24322298460407374,0.140625
+Random Forest,Training OOF,0.3455617199691155,0.25396825396825395
+Random Forest,Training OOF,0.4111819850015462,0.2857142857142857
+Random Forest,Training OOF,0.49778913278166304,0.3968253968253968
+Random Forest,Training OOF,0.6223408671074405,0.5714285714285714
+Random Forest,Held-out test,0.24277697537348275,0.1875
+Random Forest,Held-out test,0.3383885616698116,0.25
+Random Forest,Held-out test,0.4024748619753522,0.3333333333333333
+Random Forest,Held-out test,0.4867019153572462,0.375
+Random Forest,Held-out test,0.6315855869348516,0.5
+Logistic Regression,Training OOF,0.07749508149874348,0.21875
+Logistic Regression,Training OOF,0.20338298619073822,0.20634920634920634
+Logistic Regression,Training OOF,0.37057615213725853,0.20634920634920634
+Logistic Regression,Training OOF,0.6091445887288762,0.49206349206349204
+Logistic Regression,Training OOF,0.9077597003315442,0.5238095238095238
+Logistic Regression,Held-out test,0.08294801321709058,0.25
+Logistic Regression,Held-out test,0.20554670739420786,0.3125
+Logistic Regression,Held-out test,0.386023580801457,0.3333333333333333
+Logistic Regression,Held-out test,0.6125086875360186,0.25
+Logistic Regression,Held-out test,0.9058649371667472,0.5

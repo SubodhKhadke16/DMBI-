@@ -1,0 +1,9 @@
+{
+  "At Risk encoding": 0,
+  "risk_probability_definition": "predict_proba column whose class label is 0",
+  "threshold_rule": "predict At Risk when Probability_At_Risk >= threshold; otherwise Pass",
+  "selection_data": "training-only five-fold out-of-fold predictions",
+  "test_data_used_for_selection": false,
+  "test_support_At_Risk": 26,
+  "historical_threshold_issue": "The historical threshold analysis compared a 1=At Risk prediction encoding with the original 0=At Risk labels. This diagnostic re-encodes At Risk as 1 before calculating At Risk metrics."
+}

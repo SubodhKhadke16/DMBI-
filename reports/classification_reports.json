@@ -1,0 +1,83 @@
+{
+  "Decision Tree": {
+    "At Risk": {
+      "precision": 0.3333333333333333,
+      "recall": 0.2692307692307692,
+      "f1-score": 0.2978723404255319,
+      "support": 26.0
+    },
+    "Pass": {
+      "precision": 0.6724137931034483,
+      "recall": 0.7358490566037735,
+      "f1-score": 0.7027027027027027,
+      "support": 53.0
+    },
+    "accuracy": 0.5822784810126582,
+    "macro avg": {
+      "precision": 0.5028735632183908,
+      "recall": 0.5025399129172714,
+      "f1-score": 0.5002875215641174,
+      "support": 79.0
+    },
+    "weighted avg": {
+      "precision": 0.560817692419613,
+      "recall": 0.5822784810126582,
+      "f1-score": 0.5694673935988237,
+      "support": 79.0
+    }
+  },
+  "Random Forest": {
+    "At Risk": {
+      "precision": 1.0,
+      "recall": 0.038461538461538464,
+      "f1-score": 0.07407407407407407,
+      "support": 26.0
+    },
+    "Pass": {
+      "precision": 0.6794871794871795,
+      "recall": 1.0,
+      "f1-score": 0.8091603053435115,
+      "support": 53.0
+    },
+    "accuracy": 0.6835443037974683,
+    "macro avg": {
+      "precision": 0.8397435897435898,
+      "recall": 0.5192307692307693,
+      "f1-score": 0.44161718970879277,
+      "support": 79.0
+    },
+    "weighted avg": {
+      "precision": 0.78497241155469,
+      "recall": 0.6835443037974683,
+      "f1-score": 0.5672331912548358,
+      "support": 79.0
+    }
+  },
+  "Logistic Regression": {
+    "At Risk": {
+      "precision": 0.5,
+      "recall": 0.34615384615384615,
+      "f1-score": 0.4090909090909091,
+      "support": 26.0
+    },
+    "Pass": {
+      "precision": 0.7213114754098361,
+      "recall": 0.8301886792452831,
+      "f1-score": 0.7719298245614035,
+      "support": 53.0
+    },
+    "accuracy": 0.6708860759493671,
+    "macro avg": {
+      "precision": 0.610655737704918,
+      "recall": 0.5881712626995645,
+      "f1-score": 0.5905103668261563,
+      "support": 79.0
+    },
+    "weighted avg": {
+      "precision": 0.6484747873002698,
+      "recall": 0.6708860759493671,
+      "f1-score": 0.6525144852926332,
+      "support": 79.0
+    }
+  }
+}

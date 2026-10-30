@@ -1,0 +1,16 @@
+Model,Threshold,At Risk Precision,At Risk Recall,At Risk F1,Predicted At Risk Count,Source
+Decision Tree,0.3,0.4264705882352941,0.5576923076923077,0.48333333333333334,136,training-only out-of-fold predictions
+Decision Tree,0.4,0.4264705882352941,0.5576923076923077,0.48333333333333334,136,training-only out-of-fold predictions
+Decision Tree,0.5,0.42748091603053434,0.5384615384615384,0.4765957446808511,131,training-only out-of-fold predictions
+Decision Tree,0.6,0.43103448275862066,0.4807692307692308,0.45454545454545453,116,training-only out-of-fold predictions
+Decision Tree,0.7,0.43209876543209874,0.33653846153846156,0.3783783783783784,81,training-only out-of-fold predictions
+Random Forest,0.3,0.3745173745173745,0.9326923076923077,0.5344352617079889,259,training-only out-of-fold predictions
+Random Forest,0.4,0.41420118343195267,0.6730769230769231,0.5128205128205128,169,training-only out-of-fold predictions
+Random Forest,0.5,0.5217391304347826,0.46153846153846156,0.4897959183673469,92,training-only out-of-fold predictions
+Random Forest,0.6,0.6111111111111112,0.21153846153846154,0.3142857142857143,36,training-only out-of-fold predictions
+Random Forest,0.7,0.8333333333333334,0.04807692307692308,0.09090909090909091,6,training-only out-of-fold predictions
+Logistic Regression,0.3,0.40437158469945356,0.7115384615384616,0.5156794425087108,183,training-only out-of-fold predictions
+Logistic Regression,0.4,0.4722222222222222,0.6538461538461539,0.5483870967741935,144,training-only out-of-fold predictions
+Logistic Regression,0.5,0.5206611570247934,0.6057692307692307,0.56,121,training-only out-of-fold predictions
+Logistic Regression,0.6,0.5257731958762887,0.49038461538461536,0.5074626865671642,97,training-only out-of-fold predictions
+Logistic Regression,0.7,0.5394736842105263,0.3942307692307692,0.45555555555555555,76,training-only out-of-fold predictions
